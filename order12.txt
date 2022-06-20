@@ -1,0 +1,3 @@
+ID-ul facturi este 12 ID-ul clientului este 12 
+Acesta a cumparat: Beef Stock , Beef Stock , Beef Stock , Beef Stock , Beef Stock , Beef Stock , Beef Stock , Beef Stock , Beef Stock , Beef Stock ,
+Suma totala este 2600

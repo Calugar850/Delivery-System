@@ -1,0 +1,3 @@
+ID-ul facturi este 1 ID-ul clientului este 1 
+Acesta a cumparat: Beef Stock ,
+Suma totala este 26
